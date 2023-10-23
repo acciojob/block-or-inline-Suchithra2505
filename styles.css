@@ -1,11 +1,2 @@
 
 /* Your CSS Code here. */
-h1[data-ns-test='block-inline-h1'] {
-	display:inline;
-}
-#div1,#div2,#p1,#p2,#head1,#head2{
-	display:block;
-}
-#span1,#span2,#in1,#in2,#c1,#c2,#s1,#s2,#sb1,#sb2{
-	display:inline;
-}
